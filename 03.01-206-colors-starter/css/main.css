@@ -81,6 +81,10 @@ footer {
   
 }
 
+  .col-3 {
+     width: 50%;
+}
+
 
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
@@ -104,4 +108,8 @@ footer {
     background-color: seashell;
   }
    
+}
+
+  .col-3 {
+     width: 33.33%
 }
